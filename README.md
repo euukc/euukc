@@ -8,8 +8,8 @@
   I'm Kênia Caroline.
 </h1>
 
-- Sou estudante de Análise e Desenvolvimento de Sistemas e, atualmente, meu foco está sendo aprimorar os conhecimentos em HTML, CSS e JavaScript para o Frontend e C#, .NET e Banco de Dados para o Backend, pois o meu objetivo é ser capaz de operar em todas as etapas do desenvolvimento. Estou em transição da área jurídica, motivada pelo fato de ser uma pessoa multidisciplinar, comunicativa e colaborativa e por entender que sou capaz de contribuir mais com soluções inovadoras através da tecnologia do que em campos estritamente ligados ao Direito.
-
+<h2 justify="center"> Sou estudante de Análise e Desenvolvimento de Sistemas e, atualmente, meu foco está sendo aprimorar os conhecimentos em HTML, CSS e JavaScript para o Frontend e C#, .NET e Banco de Dados para o Backend, pois o meu objetivo é ser capaz de operar em todas as etapas do desenvolvimento. Estou em transição da área jurídica, motivada pelo fato de ser uma pessoa multidisciplinar, comunicativa e colaborativa e por entender que sou capaz de contribuir mais com soluções inovadoras através da tecnologia do que em campos estritamente ligados ao Direito.
+</h2>
 <br>
 
 ## 🛠 &nbsp;Tech Stack
