@@ -21,7 +21,7 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
   <img align="center" alt="C-Sharp" src="https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=c-sharp">   
   <img align="center" alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
-  <img align="center" alt="React" src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=brand">  
+  <img align="center" alt="React" src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=brand&logoColor=#06B6D4">  
   <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
   <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
   <img align="center" alt="Microsoft Sql Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoftsqlserver">
