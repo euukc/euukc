@@ -4,7 +4,7 @@
 **euukc/euukc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoseCMessias/4ef85cf5b8383a607e5294ad0c7b773d/raw/825591d9c1f77f839fe5b359a25e8f3fb8d513a1/githubcard.svg"/> -->
 
-<h1 align="left">Hi 
+<h1 align="left">
   <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm Kênia Caroline.
 </h1>
 
