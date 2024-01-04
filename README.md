@@ -4,15 +4,11 @@
 **euukc/euukc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoseCMessias/4ef85cf5b8383a607e5294ad0c7b773d/raw/825591d9c1f77f839fe5b359a25e8f3fb8d513a1/githubcard.svg"/> -->
 
-<img align="right" height="290em" src="assets/giff.webp">
-
 <h1 align="left">Hi 
   <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 30px height='30px'>, I'm Kênia Caroline.
 </h1>
 
-- 🔥 Uma aluna da ADS em busca de conhecimento e oportunidades no mundo da tecnologia
-
-- 🔭 Atualmente estou consolidando meus conhecimentos em HTML, CSS, JavaScript, C# e Banco de Dados.
+- Sou estudante de Análise e Desenvolvimento de Sistemas e, atualmente, meu foco está sendo aprimorar os conhecimentos em HTML, CSS e JavaScript para o Frontend e C#, .NET e SQL Server para o Backend, pois o meu objetivo é ser capaz de operar em todas as etapas do desenvolvimento. Estou em transição da área jurídica, motivada pelo fato de ser uma pessoa multidisciplinar, comunicativa e colaborativa e por entender que sou capaz de contribuir mais com soluções inovadoras através da tecnologia do que em campos estritamente ligados ao Direito.
 
 <br>
 
@@ -37,8 +33,8 @@
 
 <div align="center"><br/><br/>
   <a href="https://github.com/euukc">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoseCMessias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCMessias&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=euukc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euukc&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <br><br>
