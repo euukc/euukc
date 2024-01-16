@@ -12,7 +12,7 @@
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack em desenvolvimento
 
 <div style="display: inline_block">
 <a href="https://github.com/euukc">
