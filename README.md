@@ -16,19 +16,19 @@
 
 <div style="display: inline_block">
 <a href="https://github.com/euukc">
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
-  <img align="center" alt="C-Sharp" src="https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=csharp">
+  <img align="center" alt="C-Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img align="center" alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
-  <img align="center" alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=#06B6D4">  
+  <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">  
   <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">  
-  <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
+  <img align="center" alt="Git" src="[https://img.shields.io/badge/-Git-05122A?style=flat&logo=git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)">
   <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
-  <img align="center" alt="Microsoft Sql Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoftsqlserver">
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
+  <img align="center" alt="Microsoft Sql Server" src="">
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>
 
