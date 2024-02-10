@@ -26,6 +26,7 @@
   <img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
   <img align="center" alt="Microsoft Sql Server" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoftsqlserver">
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/Python?style=flat&logo=python">
 </div>
 
 <br><br>
