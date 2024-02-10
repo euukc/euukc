@@ -12,7 +12,7 @@
 
 <br>
 
-## 🛠 &nbsp;Stack principal
+## 🛠 &nbsp;Stack Principal
 
 <div style="display: inline_block">
 <a href="https://github.com/euukc">
