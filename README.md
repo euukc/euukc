@@ -26,7 +26,7 @@
 
 </div>
 
-## 🛠 &nbsp;Stack em desenvolvimento
+## 🛠 &nbsp;Stack em Desenvolvimento
 
 <div style="display: inline_block">
 <a href="https://github.com/euukc">
