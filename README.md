@@ -67,10 +67,10 @@ I'm Systems Analysis and Development Student and, presently, my focus is to deve
 
 <div>
   <a href="https://www.linkedin.com/in/keniac" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-keniac-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:keniacarolineferreira@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="gmail">
+    <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   </div>
 
