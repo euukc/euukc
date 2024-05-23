@@ -17,7 +17,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e, atualmente, meu foco 
 I'm Systems Analysis and Development Student and, presently, my focus is to develop my knowledge about HTML, CSS, Javascript, ReactJS, NextJS for Frontend and C#/.Net and Data Base for Backend, because my goal is to be able to develop an application from Frontend to Backend. I'm currently in career transition, motivated by the fact that I am a multidisciplinary, communicative and collaborative person and because I understand that I am able to contribute more in innovative solutions through technology than in fields of law.
 
 
-## 🛠 &nbsp;Stack Principal
+## 🛠 &nbsp;Stack Principal - Main Stack
 
 <div style="display: inline_block">
 <a href="https://github.com/euukc">
@@ -33,7 +33,7 @@ I'm Systems Analysis and Development Student and, presently, my focus is to deve
 
 </div>
 
-## 🛠 &nbsp;Stack em Desenvolvimento
+## 🛠 &nbsp;Stack em Desenvolvimento - Developing Stacks
 
 <div style="display: inline_block">
 <a href="https://github.com/euukc">
