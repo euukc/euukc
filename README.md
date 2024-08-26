@@ -9,12 +9,12 @@
 </h1>
 
 ## 🇧🇷
-Sou estudante de Análise e Desenvolvimento de Sistemas e, atualmente, meu foco está sendo aprimorar os conhecimentos em HTML, CSS, JavaScript, ReactJS e NextJS para o Frontend e Python, C#/.NET e Banco de Dados para o Backend, pois o meu objetivo é ser capaz de operar em todas as etapas do desenvolvimento. Estou em transição da área jurídica, motivada pelo fato de ser uma pessoa multidisciplinar, comunicativa e colaborativa e por entender que sou capaz de contribuir mais com soluções inovadoras através da tecnologia do que em campos estritamente ligados ao Direito.
-
+Sou desenvolvedora de software com mais de um ano de experiência na criação de aplicações web, incluindo sites institucionais, landing pages e sistemas web, utilizando tecnologias como HTML, CSS, Tailwind, SCSS, JavaScript, ReactJS e NextJS. Com o objetivo de me tornar uma desenvolvedora fullstack, estou aprimorando minhas habilidades em Python, C# e bancos de dados, visando  ser capaz de oferecer soluções completas. Atualmente, atuo como desenvolvedora frontend em uma empresa e sou estudante de Análise e Desenvolvimento de Sistemas. Também sou entusiasta da cibersegurança e estudo constantemente para me manter atualizada com as últimas tendências e práticas da área.
 <br>
 
 ## 🇺🇸
-I'm Systems Analysis and Development Student and, presently, my focus is to develop my knowledge about HTML, CSS, Javascript, ReactJS, NextJS for Frontend and C#/.Net and Data Base for Backend, because my goal is to be able to develop an application from Frontend to Backend. I'm currently in career transition, motivated by the fact that I am a multidisciplinary, communicative and collaborative person and because I understand that I am able to contribute more in innovative solutions through technology than in fields of law.
+
+I'm a software developer with over 1 year of experience creating web applications, including institutional websites, landing pages, and web systems, using technologies such as HTML, CSS, Tailwind, SCSS, JavaScript, ReactJS, and Next.js. I'm aspiring to become a fullstack developer, so I'm improving my skills in Python, C#, and databases to offer comprehensive solutions. Currently, I'm a front-end developer at a company and a student of Analysis and Systems Development. I am also a cybersecurity enthusiast and study constantly to stay updated with the latest trends and practices in the field.
 
 
 ## 🛠 &nbsp;Stack Principal - Main Stack
