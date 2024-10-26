@@ -9,12 +9,12 @@
 </h1>
 
 ## 🇧🇷
-Sou desenvolvedora de software com mais de um ano de experiência na criação de aplicações web, incluindo sites institucionais, landing pages e sistemas web, utilizando tecnologias como HTML, CSS, Tailwind, SCSS, JavaScript, ReactJS e NextJS. Com o objetivo de me tornar uma desenvolvedora fullstack, estou aprimorando minhas habilidades em Python, C# e bancos de dados, visando  ser capaz de oferecer soluções completas. Atualmente, atuo como desenvolvedora frontend em uma empresa e sou estudante de Análise e Desenvolvimento de Sistemas. Também sou entusiasta da cibersegurança e estudo constantemente para me manter atualizada com as últimas tendências e práticas da área.
+Sou desenvolvedora de software com mais de um ano de experiência na criação de aplicações web, incluindo sites institucionais, landing pages e sistemas web, utilizando tecnologias como HTML, CSS, Tailwind, SCSS, JavaScript, ReactJS e NextJS. Com o objetivo de me tornar uma desenvolvedora fullstack, estou aprimorando minhas habilidades em NodeJS, Python, C# e bancos de dados, visando  ser capaz de oferecer soluções completas. Atualmente, atuo como desenvolvedora frontend em uma empresa e sou estudante de Análise e Desenvolvimento de Sistemas. Também sou entusiasta da cibersegurança e estudo constantemente para me manter atualizada com as últimas tendências e práticas da área.
 <br>
 
 ## 🇺🇸
 
-I'm a software developer with over 1 year of experience creating web applications, including institutional websites, landing pages, and web systems, using technologies such as HTML, CSS, Tailwind, SCSS, JavaScript, ReactJS, and Next.js. I'm aspiring to become a fullstack developer, so I'm improving my skills in Python, C#, and databases to offer comprehensive solutions. Currently, I'm a front-end developer at a company and a student of Analysis and Systems Development. I am also a cybersecurity enthusiast and study constantly to stay updated with the latest trends and practices in the field.
+I'm a software developer with over 1 year of experience creating web applications, including institutional websites, landing pages, and web systems, using technologies such as HTML, CSS, Tailwind, SCSS, JavaScript, ReactJS, and Next.js. I'm aspiring to become a fullstack developer, so I'm improving my skills in NodeJS, Python, C#, and databases to offer comprehensive solutions. Currently, I'm a front-end developer at a company and a student of Analysis and Systems Development. I am also a cybersecurity enthusiast and study constantly to stay updated with the latest trends and practices in the field.
 
 
 ## 🛠 &nbsp;Stack Principal - Main Stack
