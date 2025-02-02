@@ -4,9 +4,9 @@
 **euukc/euukc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoseCMessias/4ef85cf5b8383a607e5294ad0c7b773d/raw/825591d9c1f77f839fe5b359a25e8f3fb8d513a1/githubcard.svg"/> -->
 
-<h1 align="left">
+
   I'm Kênia Caroline.
-</h1>
+
 
 ## 🇧🇷
 Sou desenvolvedora de software com mais de um ano de experiência na criação de aplicações web, como sites institucionais, landing pages e sistemas, utilizando tecnologias como HTML, CSS, Tailwind, SCSS, JavaScript, ReactJS e NextJS. Tenho uma grande paixão por criar soluções inovadoras para impulsionar negócios no mundo digital, utilizando software como ferramenta para transformação e crescimento. Meu objetivo é me tornar uma desenvolvedora fullstack, aprimorando minhas habilidades em NodeJS, Python, C# e bancos de dados, para entregar soluções completas e impactantes. Atualmente, atuo como desenvolvedora frontend em uma empresa e sou estudante de Análise e Desenvolvimento de Sistemas, sempre em busca de me manter atualizada nas últimas tendências de cibersegurança e desenvolvimento.
