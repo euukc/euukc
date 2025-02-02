@@ -9,12 +9,12 @@
 
 
 ## 🇧🇷
-Sou desenvolvedora de software com mais de um ano de experiência na criação de aplicações web, como sites institucionais, landing pages e sistemas, utilizando tecnologias como HTML, CSS, Tailwind, SCSS, JavaScript, ReactJS e NextJS. Tenho uma grande paixão por criar soluções inovadoras para impulsionar negócios no mundo digital, utilizando software como ferramenta para transformação e crescimento. Meu objetivo é me tornar uma desenvolvedora fullstack, aprimorando minhas habilidades em NodeJS, Python, C# e bancos de dados, para entregar soluções completas e impactantes. Atualmente, atuo como desenvolvedora frontend em uma empresa e sou estudante de Análise e Desenvolvimento de Sistemas, sempre em busca de me manter atualizada nas últimas tendências de cibersegurança e desenvolvimento.
+Sou desenvolvedora de software com mais de um ano de experiência na criação de aplicações web, como sites institucionais, landing pages e sistemas, utilizando tecnologias como HTML, CSS, Tailwind, SCSS, JavaScript, ReactJS, NextJS, NodeJS, Express e MongoDB. Tenho uma grande paixão por criar soluções inovadoras para impulsionar negócios no mundo digital, utilizando software como ferramenta para transformação e crescimento. Atualmente, atuo como desenvolvedora frontend em uma empresa e sou estudante de Análise e Desenvolvimento de Sistemas, sempre em busca de me manter atualizada nas últimas tendências de cibersegurança e desenvolvimento.
 <br>
 
 ## 🇺🇸
 
-I am a software developer with over a year of experience in creating web applications, such as institutional websites, landing pages, and systems, using technologies like HTML, CSS, Tailwind, SCSS, JavaScript, ReactJS, and NextJS. I am passionate about creating innovative solutions to drive business growth in the digital world, using software as a tool for transformation and success. My goal is to become a full-stack developer, enhancing my skills in NodeJS, Python, C#, and databases, to deliver complete and impactful solutions. Currently, I work as a frontend developer at a company and am a student of Systems Analysis and Development, always striving to stay up to date with the latest trends in cybersecurity and software development.
+I am a software developer with over a year of experience in creating web applications, such as institutional websites, landing pages and systems, using technologies like HTML, CSS, Tailwind, SCSS, JavaScript, ReactJS, NextJS, Express and MongoDB. I am passionate about creating innovative solutions to drive business growth in the digital world, using software as a tool for transformation and success. Currently, I work as a frontend developer at a company and am a student of Systems Analysis and Development, always striving to stay up to date with the latest trends in cybersecurity and software development.
 
 
 ## 🛠 &nbsp;Stack Principal - Main Stack
