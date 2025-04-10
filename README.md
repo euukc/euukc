@@ -5,7 +5,7 @@
 <!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoseCMessias/4ef85cf5b8383a607e5294ad0c7b773d/raw/825591d9c1f77f839fe5b359a25e8f3fb8d513a1/githubcard.svg"/> -->
 
 
-### I'm Kênia Caroline.
+### I'm a Software Developer and cybersecurity enthusiast based in Brazil, always looking to grow and improve in every aspect.
 
 
 ## 🇧🇷
