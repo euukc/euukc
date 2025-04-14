@@ -1,12 +1,9 @@
 ### Hi, there! 👋
 
-<!--
-**euukc/euukc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoseCMessias/4ef85cf5b8383a607e5294ad0c7b773d/raw/825591d9c1f77f839fe5b359a25e8f3fb8d513a1/githubcard.svg"/> -->
-
-
-### I'm a Software Developer and cybersecurity enthusiast based in Brazil, always looking to grow and improve in every aspect.
-
+<div align="center">  
+  <br>
+  <b>I'm a Software Developer and cybersecurity enthusiast based in Brazil, always looking to grow and improve in every aspect.</b>
+</div>
 
 ## 🇧🇷
 Sou desenvolvedora de software com mais de um ano de experiência na criação de aplicações web, como sites institucionais, landing pages e sistemas, utilizando tecnologias como HTML, CSS, Tailwind, SCSS, JavaScript, ReactJS, NextJS, NodeJS, Express e MongoDB. Tenho uma grande paixão por criar soluções inovadoras para impulsionar negócios no mundo digital, utilizando software como ferramenta para transformação e crescimento. Atualmente, atuo como desenvolvedora frontend em uma empresa e sou estudante de Análise e Desenvolvimento de Sistemas, sempre em busca de me manter atualizada nas últimas tendências de cibersegurança e desenvolvimento.
