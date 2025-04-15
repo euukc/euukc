@@ -2,7 +2,7 @@
 
 <div align="center">  
   <br>
-  <b>I'm a Software Developer and cybersecurity enthusiast based in Brazil, always looking to grow and improve in every aspect.</b>
+  <b>I'm a Software Developer and cybersecurity enthusiast, always looking to grow and improve in every aspect.</b>
 </div>
 
 ## 🇧🇷
