@@ -5,7 +5,7 @@
 ```
 👋 Hi, I'm Kênia
 🌎 Living in São Paulo - Brazil
-💻 Full Stack Software Developer and cybersecurity enthusiast, always looking to grow and improve in every aspect.</
+💻 Full Stack Software Developer and cybersecurity enthusiast, always looking to grow and improve in every aspect.
 ```
 
   
