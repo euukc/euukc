@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/euukc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/euukc](https://www.linkedin.com/in/keniac))
 [![Website](https://img.shields.io/badge/website-green?style=for-the-badge)](https://keniacaroline-dev.vercel.app)
 
 
