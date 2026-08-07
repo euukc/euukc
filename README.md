@@ -6,7 +6,7 @@
 👋 Hi, I'm Kênia
 🌎 Living in São Paulo - Brazil
 💻 FullStack Software Developer and cybersecurity enthusiast, always looking to grow and improve in every aspect.
-🌱 I’m alwasys learning something new
+🌱 I’m always learning something new
 ```
 
   
